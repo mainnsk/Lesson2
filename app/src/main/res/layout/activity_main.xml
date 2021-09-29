@@ -27,6 +27,7 @@
 
 
             <View
+                android:id="@+id/first_view"
                 android:layout_width="match_parent"
                 android:layout_height="200dp"
                 android:layout_margin="16dp"
@@ -46,6 +47,7 @@
 
 
             <androidx.appcompat.widget.AppCompatImageView
+                android:id="@+id/button_logo"
                 android:layout_width="match_parent"
                 android:layout_height="200dp"
                 android:layout_margin="16dp"
